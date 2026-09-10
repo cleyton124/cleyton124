@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e3a8a&height=200&section=header&text=Cleyton%20Santana&fontSize=40&fontColor=ffffff&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20e%20Security&descSize=18&descAlignY=65" width="100%"/>
 
 <p align="center">
-  Estudante de Engenharia da Computação com foco em DevOps, Infraestrutura de TI e Cloud Computing. Tenho conhecimentos em Linux, redes, AWS (EC2, S3, IAM, VPC, CloudWatch), Terraform e GitHub Actions, desenvolvidos em projetos práticos de provisionamento de infraestrutura e automação de pipelines. Busco oportunidade de estágio em DevOps, Infraestrutura, Cloud ou NOC para aplicar e evoluir esses conhecimentos na prática.
-</p>
+  Estudante de Engenharia da Computação com foco em DevOps, Infraestrutura de TI e Cloud Computing. Tenho conhecimentos em Linux, redes, AWS (EC2, S3, IAM, VPC, CloudWatch), Terraform e GitHub Actions, desenvolvidos em projetos práticos de provisionamento de infraestrutura e automação de pipelines. 
 
 ---
 
