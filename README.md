@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e3a8a&height=200&section=header&text=Cleyton%20Santana&fontSize=40&fontColor=ffffff&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20e%20Security&descSize=18&descAlignY=65" width="100%"/>
 
 <p align="center">
-Estudante de Engenharia da Computação com foco em DevOps, Infraestrutura de TI e Cloud Computing. Tenho conhecimentos em Linux, redes, AWS (EC2, S3, IAM, VPC, CloudWatch), Terraform e GitHub Actions, desenvolvidos em projetos práticos de provisionamento de infraestrutura e automação de pipelines. Busco oportunidade de estágio em DevOps, Infraestrutura, Cloud ou NOC para aplicar e evoluir esses conhecimentos na prática.
+  Construindo infraestrutura como código, automatizando pipelines e aprendendo a proteger o que eu mesmo provisiono.
 </p>
 
 ---
@@ -24,6 +24,22 @@ Estudante de Engenharia da Computação com foco em DevOps, Infraestrutura de TI
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🎯 Habilidades
+
+**Cloud & IaC:** `CLOUD COMPUTING` `AWS` `AWS CLI` `EC2` `S3` `IAM` `VPC` `CLOUDWATCH` `SECURITY GROUPS` `TERRAFORM` `INFRAESTRUTURA COMO CÓDIGO`
+
+**CI/CD & Containers:** `GIT` `GITHUB` `GITHUB ACTIONS` `CI/CD` `DOCKER` `KUBERNETES` `ANSIBLE`
+
+**Sistemas & Redes:** `LINUX` `WINDOWS` `BASH` `PYTHON` `TCP/IP` `DNS` `DHCP` `LAN` `WAN` `VLANs` `SSH` `HTTP/HTTPS` `NMAP` `TROUBLESHOOTING` `APACHE` `LAMP`
+
+**Observabilidade & Operações:** `NOC` `MONITORAMENTO DE REDES` `FIREWALL`
+
+**Segurança:** `SEGURANÇA DA INFORMAÇÃO` `CONTROLE DE ACESSO` `PHISHING` `DEVSECOPS`
+
+**Produtividade:** `MICROSOFT 365`
 
 ---
 
